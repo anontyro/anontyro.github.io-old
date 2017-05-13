@@ -1,0 +1,9 @@
+body{
+	overflow-x: hidden;
+}
+.row{
+	margin: auto;
+	margin-left: 10%;
+	margin-right: 5%;
+
+}
