@@ -7,3 +7,21 @@ body{
 	margin-right: 5%;
 
 }
+.landing-content{
+	margin-top: 40px;
+}
+.standard-card-content{
+	max-height: 200px;
+	min-height: 200px;
+	margin-bottom: 40px;
+}
+.standard-card-content:hover {
+	background-color: #455a64  !important;
+}
+
+@media(max-width: 800px){
+	.standard-card-content{
+	max-height: none;
+	min-height: auto;
+}
+}
